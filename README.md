@@ -1,1 +1,1 @@
-{"SendMessage":"04","MyMessage":"toma no cu"}
+{"SendMessage":"04","MyMessage":"9999"}
