@@ -1,1 +1,1 @@
-{"SendMessage":"04","MyMessage":"Bem-Vindo, caso nunca tenha usado vpn, somos um meio alternativo de acessar Internet ilimitada, algumas vezes a operadora derruba esses meios, costuma acontecer 2 vezes ao ano, nesses casos não a reembolso, caso seja por parte de nosso servidor faremos o estorno  com base nos dias usados. "}
+{"SendMessage":"04","MyMessage":"se leu seu cu é meu "}
